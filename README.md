@@ -1,25 +1,20 @@
-### Heeey, I'm Laysson, a Computer Science student at UFSCar!
-- 🌱 I’m currently learning C, Python, HTML and CSS
-- 😄 Pronouns: him/his
-<!--
-**layssonsantos/layssonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Heeey! I'm Laysson! 🤙
+- 🌱 I’m currently student Computer Science at UFSCar! 
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laysson_nvt/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysson-nvt-5aa679225/)[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/layssonnvt)
 
-
---> <div align="center">
+<div align="center">
   <a href="https://github.com/layssonsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&langs_count=7&theme=radical"/>
-    </div>
-  
-  <div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+  ### Linguagens que eu utilizo e estou aprendendo:
+
+  <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Laysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Laysson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Laysson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Laysson-C" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    <img align="center" alt="Laysson-C" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="right" alt="Laysson-Pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47fktegzaxpm8apj8lluttn16imm3kx3lcf4q9dymk&rid=200w.webp&ct=g">
   </div>
-  
-    
-
-
