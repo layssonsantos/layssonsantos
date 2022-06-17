@@ -1,12 +1,12 @@
 ### Heeey, I'm Laysson, a Computer Science student at UFSCar!
-
+- 🌱 I’m currently learning C, Python, HTML and CSS
+- 😄 Pronouns: him/his
 <!--
 **layssonsantos/layssonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C, Python, HTML and CSS
-- 😄 Pronouns: him/his
+
 --> <div align="center">
   <a href="https://github.com/layssonsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
