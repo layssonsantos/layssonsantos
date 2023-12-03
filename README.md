@@ -1,11 +1,9 @@
 ## Heeey, i'm Laysson, graduating in Computer Science at UFSCar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=3%> <img src="https://media1.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif?cid=ecf05e47fque862v0gka65u8brf9wsamvaaykcuzn2s6ai62&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=3%>
 
 ## 📈 Statistics 
-<div align="center"> <br>
-  <a href="https://github.com/layssonsantos">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&langs_count=7&theme=radical"/>
-</div> 
+  <div align="center"> <br>
+    <a href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Laysson github stats"</a> <a         href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&theme=radical&hide_border=true"</a>
+  </div> 
     
  ##
 
