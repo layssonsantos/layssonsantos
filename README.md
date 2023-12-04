@@ -2,7 +2,7 @@
 
 ## 📈 Statistics 
   <div align="center"> <br>
-    <a href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Laysson github stats"</a> <a         href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&theme=radical&hide_border=true"</a>
+    <a href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Laysson github stats"</a> <a         href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&theme=radical&hide_border=false"</a>
   </div> 
     
  ##
