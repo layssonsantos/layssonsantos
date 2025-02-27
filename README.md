@@ -1,11 +1,11 @@
-## Heeey, i'm Laysson, graduating in Computer Science at UFSCar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=3%> <img src="https://media1.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif?cid=ecf05e47fque862v0gka65u8brf9wsamvaaykcuzn2s6ai62&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=3%>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A66C2&section=header&reversal=false&animation=fadeIn"/>
 
-## 📈 Statistics 
-  <div align="center"> <br>
-    <a href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Laysson github stats"</a> <a         href="https://github.com/layssonsantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&theme=radical&hide_border=false"</a>
-  </div> 
-    
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hello!++My+name+is+Laysson;UFSCar+Computer+Science+Graduating!;Be+Welcome!+)](https://git.io/typing-svg)
+
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />          
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&theme=github_dark&hide_border=true" />
+</div> 
 
 ### Currently learning:
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
@@ -37,3 +37,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layssonsantos/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laysson.nvt@gmail.com)
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A66C2&section=footer&reversal=false&animation=fadeIn"/>
