@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A66C2&section=header&reversal=false&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B94F2&section=header&reversal=false&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hello!++My+name+is+Laysson;UFSCar+Computer+Science+Graduating!;Be+Welcome!+)](https://git.io/typing-svg)
 
@@ -39,4 +39,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laysson.nvt@gmail.com)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A66C2&section=footer&reversal=false&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B94F2&section=footer&reversal=false&animation=fadeIn"/>
