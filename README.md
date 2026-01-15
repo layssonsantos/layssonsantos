@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hello!++My+name+is+Laysson;UFSCar+Computer+Science+Graduating!;Be+Welcome!+)](https://git.io/typing-svg)
 
-<div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=layssonsantos&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />          
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssonsantos&layout=compact&theme=github_dark&hide_border=true" />
-</div> 
+
 
 ### Currently learning:
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
